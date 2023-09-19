@@ -10,8 +10,9 @@ endpoint = "https://paper-api.alpaca.markets"
 orders = "{}/v2/orders".format(endpoint)
 
 # backup api connection (if not using database)
-API_KEY = "PKXYQU6YMZAGH9BSUPXE"
-SECRET_KEY = "AnsaUbgN9C3dx9ZeXdh5Z081nhWiArD9vm8pBf4f"
+# the account used for this project is no longer in use, so API and secret keys have been removed
+API_KEY = "---"
+SECRET_KEY = "---"
 con = {"APCA-API-KEY-ID": API_KEY, "APCA-API_SECRET_KEY": SECRET_KEY}
 
 trading_client = TradingClient(API_KEY, SECRET_KEY, paper=True)
