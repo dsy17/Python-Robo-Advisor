@@ -15,9 +15,8 @@ The goal of this project was to build a robust robo-advisor that reacts accordin
 
 The user input system is a core part of this application as it enables users to remain in control of their trades and finances, rather than granting complete control to the robo-advisor. The user can register their own account where they can connect to Alpaca with their personal API keys and tailor their experience.
 
-<p align="center">
-  <img height="400" alt="Screenshot 2023-04-28 at 06 28 24" src="https://github.com/dsy17/python-robo-advisor/assets/127321145/26e24083-7491-4de8-800d-7bf09b15bca8">
-  <img height="400" alt="Screenshot 2023-04-20 at 20 54 28" src="https://github.com/dsy17/python-robo-advisor/assets/127321145/8637a844-f978-494d-9c4a-bf505d9ce7d7">
+  <img height="400" alt="Screenshot 2023-04-28 at 06 28 24" src="https://github.com/dsy17/Python-Robo-Advisor/assets/127321145/45fbc1ea-96e3-4f9c-ab2a-8bf2982f4b1f">
+  <img height="400" alt="Screenshot 2023-04-20 at 20 54 28" src="https://github.com/dsy17/Python-Robo-Advisor/assets/127321145/8637a844-f978-494d-9c4a-bf505d9ce7d7">
 <p/>
 
 ## Database features:
