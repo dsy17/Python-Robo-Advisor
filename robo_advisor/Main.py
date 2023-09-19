@@ -10,6 +10,7 @@ endpoint = "https://paper-api.alpaca.markets"
 orders = "{}/v2/orders".format(endpoint)
 
 # backup api connection (if not using database)
+# the account used for this project is no longer in use, so API and secret keys have been removed
 API_KEY = "---"
 SECRET_KEY = "---"
 con = {"APCA-API-KEY-ID": API_KEY, "APCA-API_SECRET_KEY": SECRET_KEY}
