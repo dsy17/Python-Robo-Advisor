@@ -1,0 +1,10 @@
+AAPL, apple
+NDAQ, nasdaq
+AMZN, amazon
+GOOGL, google
+MSFT, microsoft
+META, meta
+TSLA, tesla
+NVDA, nvidia
+AMD, amd
+NFLX, netflix
